@@ -1,3 +1,9 @@
+* {
+    
+    margin: 1 4%;
+    padding: 1px;
+
+}
 h1 {
     background-color: antiquewhite;
     font-size: 50px;
